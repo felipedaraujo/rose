@@ -10,7 +10,12 @@
 
 | ID | Title | Started At | Due | Links |
 |----|-------|------------|-----|-------|
-|    |       |            |     |       |
+| T-006 | Examinar o termostato da geladeira |  |  |  |
+| T-005 | Trocar o óleo do carro azul |  |  |  |
+| T-004 | Examinar a máquina de lavar pratos para saber onde é o defeito |  |  |  |
+| T-003 | Transferir dinheiro do Nubank para o BTG e fechar a conta do Nubank |  |  |  |
+| T-002 | Programar transações de 54 mil reais para a nova conta BTG |  |  |  |
+| T-001 | Atualizar contrato de empréstimo e enviar para Bruna para assinar |  |  |  |
 
 ## Done
 
